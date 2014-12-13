@@ -1,6 +1,6 @@
 **************************************
 ** Template for Cocos2d-x projects  **
-** 	  (with Javascript binding) 	**
+** 	  (with Javascript binding) **
 ** Copyright (c) 2014 Arthur VIMOND **
 **************************************
 
